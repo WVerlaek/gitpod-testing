@@ -1,5 +1,4 @@
-image:
-  file: .gitpod-terraform.Dockerfile
+image: busybox:latest
 tasks: []
   # - name: tailscaled
   #   command: |
