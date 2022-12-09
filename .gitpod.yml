@@ -1,5 +1,4 @@
-image:
-  file: .gitpod.Dockerfile
+image: woutergitpod/test:latest
 tasks: []
   # - name: tailscaled
   #   command: |
