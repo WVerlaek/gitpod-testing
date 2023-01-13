@@ -1,4 +1,4 @@
-image: woutergitpod/test:latest
+image: ghcr.io/wverlaek/gitpod-workspace-image-test:latest
 tasks: []
   # - name: tailscaled
   #   command: |
