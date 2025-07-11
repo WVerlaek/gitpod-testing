@@ -1,3 +1,4 @@
 {
-    "image": "public.ecr.aws/h9j4t1m2/devcontainers/base:latest"
+    // "image": "public.ecr.aws/h9j4t1m2/devcontainers/base:latest"
+    "image": "514634267134.dkr.ecr.eu-central-1.amazonaws.com/devcontainers/base:latest"
 }
